@@ -1,9 +1,13 @@
 /* Place CSS styles here */
+div {
+    background: -webkit-linear-gradient(#e15555, #869eb0);
+  }
 body {
 background-color:#a6bea1;
 color:#281346;
 font-family:monospace;
 }
-div {
-    background-color: #e84d4d;
+    header {
+        background-color: #e84d4d;
+        color: black;
     }
