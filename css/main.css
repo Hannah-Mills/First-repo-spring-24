@@ -1,13 +1,17 @@
 /* Place CSS styles here */
-body {
+div {
     background: #466368;
     background: -webkit-linear-gradient(#648880, #293f50);
     background:    -moz-linear-gradient(#648880, #293f50);
     background:         linear-gradient(#648880, #293f50);
+}
+
+body {
+    background-color: #9bc0b8;
 color:#110423;
 font-family:monospace;
 }
-    header {
+header {
         background-color: #e98585;
         color: black;
         font-family:'Times New Roman';
