@@ -14,7 +14,7 @@ header {
         color: black;
         font-family:'Times New Roman';
     }
-div .image {
+img {
     padding: 10px; 
     border-style: 2px solid;
 }
