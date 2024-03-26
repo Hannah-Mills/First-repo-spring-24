@@ -14,7 +14,7 @@ header {
         color: black;
         font-family:'Times New Roman';
     }
-img {
+.Image {
     padding: 10px; 
-    border-style: 2px solid;
+    border: 2px solid;
 }
