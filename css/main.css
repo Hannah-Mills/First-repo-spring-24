@@ -1,4 +1,7 @@
 /* Place CSS styles here */
+div {
+    margin: 10px 20px 0 15px;
+  }
 body {
      background: #466368;
     background: -webkit-linear-gradient(#648880, #293f50);
@@ -6,10 +9,13 @@ body {
     background:         linear-gradient(#648880, #293f50);
     color:#110423;
     font-family:monospace;
+    margin: 10px 20px 0 15px;
 }
 
 header {
         background-color: #e98585;
         color: black;
         font-family:'Times New Roman';
+        margin: 10px 20px 0 15px;
     }
+
