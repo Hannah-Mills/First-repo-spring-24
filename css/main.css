@@ -1,7 +1,4 @@
 /* Place CSS styles here */
-div {
-    margin: 10px 20px 0 15px;
-  }
 body {
      background: #466368;
     background: -webkit-linear-gradient(#648880, #654ba7);
@@ -18,6 +15,3 @@ header {
         font-family:'Times New Roman';
         margin: 10px 20px 0 15px;
     }
-div { class="dropdown">
-    margin: 0px 0px 0 0px;
-}
