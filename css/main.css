@@ -18,15 +18,18 @@ header {
 .KOTA {
     padding: 10px; 
 }
-section {
-        float: left;
+.row {
+        display: flex;
+        flex-direction: row;
         padding: 10px;
         margin: 10px 0 10px 0;
-        width: 47%;
 }
-aside {
-    float: right;
+.Skills {
     padding: 10px;
-    margin: 10px 0 10px 0;
-    width: 47%;
+}
+.sndrow {
+       display: flex;
+       flex-direction: row;
+       padding: 10px;
+       margin: 10px 0 10px 0;
 }
