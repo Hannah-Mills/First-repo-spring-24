@@ -1,12 +1,12 @@
 /* Place CSS styles here */
 body {
      background: #466368;
-    background: -webkit-linear-gradient(#648880, #654ba7);
-    background:    -moz-linear-gradient(#648880, #654ba7);
-    background:         linear-gradient(#648880, #654ba7);
+    background: -webkit-linear-gradient(#648880, #937ec7);
+    background:    -moz-linear-gradient(#648880, #937ec7);
+    background:         linear-gradient(#648880, #937ec7);
     color:#110423;
     font-family:monospace;
-    margin: 0px 20px 0 20px;
+    margin: 0px 40px 40px 40px;
     padding: 10px;
 }
 
