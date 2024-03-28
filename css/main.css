@@ -18,9 +18,9 @@ header {
     padding: 10px; 
 }
 section {
-    float: left;
-    margin: 1.5% 1.5%;
-    width: 45%;
+        float: left;
+        margin: 0 1.5%;
+        width: 30%;
 }
 aside {
     float: right;
